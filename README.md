@@ -1,16 +1,55 @@
-# title(){return this.options.title||this.options.name}
+# Scrimba - Moon Base
 
-## Supporting Scrimba
+This is a solution to the [Scrimba Frontedn Career Path - Module 1](https://scrimba.com/learn/frontend/why-learning-web-development-is-a-superpower-cPkK7mUE).
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+## Table of contents
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshots](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
 
-	It would also mean the world to us if you share the courses.  
+## Overview
 
-Happy Coding!
+### The challenge
+
+Users will be able to:
+
+- Understand & Apply basic HTML consepts
+- Understand & Apply basic CSS consepts
+
+### Screenshots
+
+![Home](moonBase-home.png)
+![Mission](moonBase-mission.png)
+
+### Links
+
+- Solution URL: [GitHub](https://github.com/Rod-Barbosa)
+- Live Site URL: [rodrigo-moonbase.netlify.app](https://rodrigo-moonbase.netlify.app/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+
+### What I learned
+
+Quick recap fo the basics
+
+### Continued development
+
+Just keep going. Scrimba looks awesome
+
+## Author
+
+- Website - [Rodrigo Barbosa](https://www.gelatodigital.com)
+- Frontend Mentor - [@Rod-Barbosa](https://www.frontendmentor.io/profile/Rod-Barbosa)
+
